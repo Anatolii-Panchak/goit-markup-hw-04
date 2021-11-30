@@ -361,9 +361,9 @@ body {
   justify-content: center;
 }
 
-/* .team-social-icon {
+.team-social-icon {
   fill:#AFB1B8;
-} */
+}
 
 .team-social-link:hover,
 .team-social-link:focus {
